@@ -1,6 +1,3 @@
-Berikut adalah program C++ untuk menginput nilai dan menentukan predikat hurufnya (A, B, C, D) lengkap dengan **sistem pause** di akhir program agar jendela konsol tidak langsung tertutup.
-
-```cpp
 #include <iostream>
 #include <cstdlib> // Diperlukan untuk menggunakan system("pause")
 
